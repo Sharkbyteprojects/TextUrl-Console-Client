@@ -1,5 +1,7 @@
 ﻿# TextUrl Console Version
  
+ [GUI VERSION (GERMAN)](https://github.com/Sharkbyteprojects/TextUrl-Client-German-Windows)
+ 
  [Release](https://github.com/Sharkbyteprojects/TextUrl-Console-Client/releases)
 
 Replace Url = `https://morning-tor-58273.herokuapp.com` to your Url
